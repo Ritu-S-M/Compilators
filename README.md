@@ -108,7 +108,7 @@ Made with :heart: by
 <br>
 <a href="https://github.com/sanikaijantakar" target="_blank">Sanika Ijantakar</a>
 <br>
-<a href="https://github.com/sanikaijantakar" target="_blank">Sahana Patil</a>
+<a href="https://github.com/SahanaPPatil" target="_blank">Sahana Patil</a>
 <br>
 <a href="https://github.com/Ritu-S-M" target="_blank">Ritu Mathad</a>
 
